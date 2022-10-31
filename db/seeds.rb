@@ -7,6 +7,8 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 more_movies = [
+    {:title => 'Harry Potter', :rating => 'R',
+        :release_date => '22-Apr-2000'},
     {:title => 'My Neighbor Totoro', :rating => 'G',
       :release_date => '16-Apr-1988'},
     {:title => 'Green Book', :rating => 'PG-13',
